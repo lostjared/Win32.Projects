@@ -1,0 +1,133 @@
+//Microsoft Developer Studio generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// English (U.S.) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+#ifdef _WIN32
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
+#pragma code_page(1252)
+#endif //_WIN32
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDI_ICON1               ICON    DISCARDABLE     "icon1.ico"
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Menu
+//
+
+IDR_MENU1 MENU DISCARDABLE 
+BEGIN
+    POPUP "File"
+    BEGIN
+        MENUITEM "Create New Map",              ID_FILENEW
+        MENUITEM SEPARATOR
+        MENUITEM "Load Exisiting Map",          ID_FILEOPEN
+        MENUITEM SEPARATOR
+        MENUITEM "&Save Map",                   ID_FILESAVE
+        MENUITEM "Save Map As",                 ID_FILESAVEAS
+        MENUITEM SEPARATOR
+        MENUITEM "E&xit",                       ID_FILEEXIT
+    END
+    POPUP "Map"
+    BEGIN
+        MENUITEM "Properties",                  ID_PROP
+        MENUITEM SEPARATOR
+        MENUITEM "Scroll Left",                 ID_LEFT
+        MENUITEM "Scroll RIght",                ID_RIGHT
+        MENUITEM SEPARATOR
+        MENUITEM "Map Clear",                   ID_CLEAR
+    END
+    POPUP "Help"
+    BEGIN
+        MENUITEM "How to use",                  ID_HOW
+        MENUITEM SEPARATOR
+        MENUITEM "About",                       ID_ABOUT
+    END
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+IDB_BITMAP1             BITMAP  DISCARDABLE     "black.bmp"
+IDB_BITMAP2             BITMAP  DISCARDABLE     "grass.bmp"
+IDB_BITMAP3             BITMAP  DISCARDABLE     "bluebrick.bmp"
+IDB_BITMAP4             BITMAP  DISCARDABLE     "bluesky.bmp"
+IDB_BITMAP5             BITMAP  DISCARDABLE     "brick.bmp"
+IDB_BITMAP6             BITMAP  DISCARDABLE     "eblock.bmp"
+IDB_BITMAP7             BITMAP  DISCARDABLE     "red_brick.bmp"
+IDB_BITMAP8             BITMAP  DISCARDABLE     "sand1.bmp"
+IDB_BITMAP9             BITMAP  DISCARDABLE     "sand2.bmp"
+IDB_BITMAP10            BITMAP  DISCARDABLE     "snow.bmp"
+IDB_BITMAP11            BITMAP  DISCARDABLE     "stone.bmp"
+IDB_BITMAP12            BITMAP  DISCARDABLE     "stone2.bmp"
+IDB_BITMAP13            BITMAP  DISCARDABLE     "stone3.bmp"
+IDB_BITMAP14            BITMAP  DISCARDABLE     "stone4.bmp"
+IDB_BITMAP15            BITMAP  DISCARDABLE     "bitmap15.bmp"
+IDB_BITMAP16            BITMAP  DISCARDABLE     "hero.bmp"
+IDB_BITMAP17            BITMAP  DISCARDABLE     "grandma.bmp"
+IDB_BITMAP18            BITMAP  DISCARDABLE     "sidelogo.bmp"
+IDB_BITMAP19            BITMAP  DISCARDABLE     "about.bmp"
+#endif    // English (U.S.) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

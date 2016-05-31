@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DrawPics", "DrawPics\DrawPics.vcproj", "{729B3092-0244-4E94-A6CF-281964A3517C}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{729B3092-0244-4E94-A6CF-281964A3517C}.Debug.ActiveCfg = Debug|Win32
+		{729B3092-0244-4E94-A6CF-281964A3517C}.Debug.Build.0 = Debug|Win32
+		{729B3092-0244-4E94-A6CF-281964A3517C}.Release.ActiveCfg = Release|Win32
+		{729B3092-0244-4E94-A6CF-281964A3517C}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

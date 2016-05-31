@@ -1,0 +1,5 @@
+this is some demo code to create a job, assign a process and limit the 
+amount of cpu time allowed for that process to 1 second. If it attempts
+to use more it is terminated.
+
+

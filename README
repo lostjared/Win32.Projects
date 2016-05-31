@@ -1,0 +1,11 @@
+This directory contains older projects written for Windows, using
+the Platform SDK. Projects range in age from 3 to 9 years old.
+All projects are written in C++, and contain the original Visual Studio
+project files.
+
+This directory also contains example code I have written to help me
+cement the concepts in my mind and help me remember.
+
+
+
+- Jared
